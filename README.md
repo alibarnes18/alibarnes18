@@ -37,18 +37,6 @@ Currently focused on building products that solve real-world problems.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alibarnes18&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-<img height="165" src="https://streak-stats.demolab.com?user=alibarnes18&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibarnes18&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
 
 ## Let's Connect
 
