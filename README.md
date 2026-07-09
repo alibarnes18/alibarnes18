@@ -45,11 +45,11 @@ Currently focused on full-stack development, backend engineering, and turning id
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/alibarnes18">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:alibrns.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>- ⚙️ Backend Engineering
 - 📈 SaaS Products
