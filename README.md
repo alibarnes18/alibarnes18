@@ -57,11 +57,11 @@ Currently focused on building products that solve real-world problems.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/alibarnes18">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:alibrns.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
