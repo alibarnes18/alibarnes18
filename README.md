@@ -22,10 +22,10 @@ Currently focused on building products that solve real-world problems.
 
 ## What I'm Building
 
-- 🤖 AI-powered business solutions
-- 🚀 SaaS applications
-- ⚡ Automation systems
-- 🌐 Modern full-stack web apps
+-  AI-powered business solutions
+-  SaaS applications
+-  Automation systems
+-  Modern full-stack web apps
 
 ---
 
@@ -54,6 +54,4 @@ Currently focused on building products that solve real-world problems.
 </a>
 </p>
 
----
 
-> **Build. Ship. Improve. Repeat. 🚀**
