@@ -2,26 +2,37 @@
 
 # Hi 👋 I'm Ali
 
-### Building AI Products & Modern Web Applications
+### Building AI products & startups.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=2500&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+Developer;Computer+Engineering+Student;Building+AI+Products;Full+Stack+Developer"/>
+#### Turning ideas into software.
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Computer Engineering student passionate about building AI-powered products, automation systems, and modern web applications.
+I'm a Computer Engineering student passionate about building AI-powered products, SaaS applications, and automation tools.
 
-Currently focused on full-stack development, backend engineering, and turning ideas into real products.
+I enjoy taking ideas from concept to production by combining modern web technologies, backend engineering, and artificial intelligence.
+
+Currently focused on building products that solve real-world problems.
+
+---
+
+## What I'm Building
+
+- 🤖 AI-powered business solutions
+- 🚀 SaaS applications
+- ⚡ Automation systems
+- 🌐 Modern full-stack web apps
 
 ---
 
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,nodejs,express,postgres,mongodb,supabase,firebase,docker,git,github,vercel,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,postgres,supabase,mongodb,docker,git,github,vercel,figma,vscode" />
 </p>
 
 ---
@@ -29,80 +40,32 @@ Currently focused on full-stack development, backend engineering, and turning id
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alibarnes18&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alibarnes18&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 <img height="165" src="https://streak-stats.demolab.com?user=alibarnes18&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibarnes18&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibarnes18&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
+## Let's Connect
 
+<p>
 <a href="https://github.com/alibarnes18">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-<a href="https://www.linkedin.com/in/alibarnes18">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:alibrns.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>- ⚙️ Backend Engineering
-- 📈 SaaS Products
-- ☁️ Cloud & System Design
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alibarnes18&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=alibarnes18&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibarnes18&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alibarnes18&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# Connect
-
-<p align="left">
-
-<a href="https://github.com/alibarnes18">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
+&nbsp;
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
 ---
 
-> **Building software that people actually use.**
+> **Build. Ship. Improve. Repeat. 🚀**
